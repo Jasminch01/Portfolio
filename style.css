@@ -229,14 +229,19 @@ h1,h2,h3,h4,h5{
     left: 20%;
 }
 /* skills ends here */
-/* project starts here */
+/* portfolio starts here */
 .project-section{
     margin-top:3%;
 }
-/* project ends here */
+/* portfolio ends here */
+/* contact section starts here */
 .form-control{
     border:1px solid gray;
 }
+.form-control:focus{
+    outline: none;
+}
+/* contact section ends here */
 
 /* footer starts here */
 .f-icon{
